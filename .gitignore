@@ -1,0 +1,26 @@
+# welcome to the ignore file!!
+
+### Level 5
+
+# This file is hidden by default,
+# but did you know you have some branches that aren't shown to you,
+# when you check the list of branches?
+#
+# For your next clue...
+# Which abstract data type tends to implement sets and maps??
+# The answer is the same answer to this riddle:
+#
+#   I am both mother and father.
+#   I am seldom still
+#   yet I never wander.
+#   I never birth nor nurse.
+#
+#   What am I?
+#
+# Afterwards... well, you
+# know, checkout to the answer.
+
+*.rem
+a.out
+.DS_Store
+
