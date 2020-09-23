@@ -1,13 +1,15 @@
 one-two-three-git
 =================
 
-### Level 8
+### Level 6
 
-Looks like you resolved your conflict and found our branch, congrats!!
+Welcome to the "tree" branch.
 
-Hmm...it seems this branch has a file that was seen before in another branch.
-Do you "remember" what it is?
+Looks like Bob 'Worm' Morris modified the "nextclue_input.cpp" file.
 
-I think this file has something to do with the next clue, but it seems to be very ugly looking.
+Normally, when ran with the shell script "outputclue.sh", the "nextclue_input.cpp" file would give us the next hint.
 
-Maybe if we compare the "diff"erences between this file and the file from before we'll know where to go next...
+Maybe, you should try running the shell script with the "nextclue_input.cpp" file and see what happens...
+
+You can run the script by running the command "./outputclue.sh FILE".
+ 
