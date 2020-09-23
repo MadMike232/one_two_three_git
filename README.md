@@ -1,7 +1,11 @@
 one-two-three-git
 =================
 
-<<<<<<< HEAD
+### Level 1
 
-=======
->>>>>>> 01e52415b86d06a076eb9c7b24a6c5a372181ae6
+Your first task is to checkout the commit whose commit-message is the name of this challenge.
+
+> Easy start, no?
+
+**Remember that you should always check the README.md file for your next clue!**
+
